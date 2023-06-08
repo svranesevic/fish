@@ -27,7 +27,7 @@ fish_color_valid_path
 # pager color variables
 # https://fishshell.com/docs/current/interactive.html#pager-color-variables
 fish_pager_color_progress d7827e
-fish_pager_color_background --background=fffaf3
+fish_pager_color_background --background=faf4ed
 fish_pager_color_prefix 56949f
 fish_pager_color_completion 797593
 fish_pager_color_description 797593

@@ -27,7 +27,7 @@ fish_color_valid_path
 # pager color variables
 # https://fishshell.com/docs/current/interactive.html#pager-color-variables
 fish_pager_color_progress $rose
-fish_pager_color_background --background=$surface
+fish_pager_color_background --background=$base
 fish_pager_color_prefix $foam
 fish_pager_color_completion $subtle
 fish_pager_color_description $subtle
